@@ -1,46 +1,52 @@
 <h1>📚 Mastering Backend Development with Golang ⚕️💻</h1>
-<br>
 Welcome to my GitHub repository!
-I am a medical student with a deep interest in technology and currently on a journey to master backend development using Golang. This repository showcases my projects, learning milestones, and contributions as I bridge the world of medicine and software engineering.
+I am a <strong>medical student</strong> with a deep interest in <strong>technology</strong> and currently on a journey to master <strong>backend development</strong> using <strong>Golang</strong>. This repository showcases my projects, learning milestones, and contributions as I bridge the world of <strong>medicine</strong> and <strong>software engineering</strong>.
 
-🧠 About Me
-Medical Student pursuing my degree with a passion for healthcare technology.
-Currently learning and mastering backend development with a focus on Golang.
-Interested in how tech can revolutionize healthcare systems, especially in areas like health informatics and medical data management.
-🎯 What You’ll Find Here
+<br>
+<h2>🧠 About Me</h2>
+<strong>Medical Student</strong> pursuing my degree with a passion for <strong>healthcare technology</strong>.
+Currently learning and mastering <strong>backend development</strong> with a focus on <strong>Golang</strong>.
+Interested in how tech can revolutionize <strong>healthcare systems</strong>, especially in areas like <strong>health informatics</strong> and <strong>medical data management</strong>.
+<br>
+<h2>🎯 What You’ll Find Here</h2>
 This repository will serve as a log of my backend development journey. Below is what you can expect to see:
 
-Projects & Applications
-Practical backend projects in Golang, exploring concepts like:
-API development with Gorilla Mux or Gin.
-Database management using PostgreSQL and GORM.
-Building RESTful services and Microservices architecture.
+<h3>Projects & Applications</h3>
+Practical backend projects in <strong>Golang</strong>, exploring concepts like:
+API development with <strong>Gorilla Mux</strong> or <strong>Gin</strong>.
+Database management using <strong>PostgreSQL</strong> and <strong>GORM</strong>.
+Building <strong>RESTful services</strong> and <strong>Microservices architecture</strong>. <br>
 Learning Resources
 Code snippets, tutorials, and notes on essential backend concepts like:
-Concurrency in Golang with goroutines and channels.
-Mastering authentication and authorization techniques (e.g., OAuth2, JWT).
-Efficient error handling and logging.
+<strong>Concurrency</strong> in Golang with <strong>goroutines</strong> and <strong>channels</strong>.
+Mastering <strong>authentication</strong> and <strong>authorization</strong> techniques (e.g., <strong>OAuth2</strong>, <strong>JWT</strong>).
+Efficient error handling and logging. <br>
 Collaborations
-I'm open to collaborating on interesting tech projects, especially those intersecting with healthcare and technology.
-🚀 Current Focus
+I'm open to collaborating on interesting tech projects, especially those intersecting with <strong>healthcare</strong> and <strong>technology</strong>.
+<br>
+<h2>🚀 Current Focus</h2>
 At the moment, I am working on:
 
-A healthcare management system backend with Golang.
-Exploring the integration of Golang with cloud services like AWS and Google Cloud.
-Improving my understanding of unit testing and CI/CD pipelines to ensure reliable and scalable systems.
-🔧 Tools & Technologies
+A <strong>healthcare management system</strong> backend with Golang.
+Exploring the integration of <strong>Golang</strong> with <strong>cloud services</strong> like <strong>AWS</strong> and <strong>Google Cloud</strong>.
+Improving my understanding of <strong>unit testing</strong> and <strong>CI/CD pipelines</strong> to ensure reliable and scalable systems.
+<br>
+<h2>🔧 Tools & Technologies</h2>
 Here are some of the tools and frameworks I’m working with:
 
-Golang (Go) for backend development.
-Gorilla Mux, Gin, Fiber for web frameworks.
-PostgreSQL, MongoDB for database management.
-Docker, Kubernetes for containerization and orchestration.
-Git for version control.
+<strong>Golang</strong> (Go) for backend development.
+<strong>Gorilla Mux</strong>, <strong>Gin</strong>, <strong>Fiber</strong> for web frameworks.
+<strong>PostgreSQL</strong>, <strong>MongoDB</strong> for database management.
+<strong>Docker</strong>, <strong>Kubernetes</strong> for containerization and orchestration.
+<strong>Git</strong> for version control.
+<br>
 🌱 Goals
-Build a robust understanding of backend architecture.
-Contribute to open-source projects focused on healthcare technology.
-Develop scalable and secure backend systems that can support medical applications.
+Build a robust understanding of <strong>backend architecture</strong>.
+Contribute to <strong>open-source</strong> projects focused on <strong>healthcare technology</strong>.
+Develop scalable and secure backend systems that can support <strong>medical applications</strong>.
+<br>
 🤝 Let's Connect
-Twitter: @metheyunus
-Email: i.yunu3@gmail.com
-If you're passionate about Golang, backend development, or healthcare tech, feel free to reach out!
+<strong>Twitter</strong>: @metheyunus
+<strong>LinkedIn</strong>: YourLinkedInProfile
+<strong>Email</strong>: i.yunu3@gmail.com
+If you're passionate about <strong>Golang</strong>, <strong>backend development</strong>, or <strong>healthcare tech</strong>, feel free to reach out!
